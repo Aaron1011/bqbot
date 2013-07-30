@@ -1,1 +1,9 @@
-["file-brain.coffee", "shipit.coffee", "github-status.coffee", "github-commit-link.coffee", "github-issue-link.coffee", "travis.coffee", "google.coffee", "ackbar.coffee", "ascii.coffee"]
+["file-brain.coffee",
+ "shipit.coffee",
+ "github-status.coffee",
+ "github-commit-link.coffee",
+ "github-issue-link.coffee",
+ "travis.coffee",
+ "google.coffee",
+ "ackbar.coffee",
+ "ascii.coffee"]
