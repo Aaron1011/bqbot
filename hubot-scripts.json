@@ -9,4 +9,5 @@
  "ascii.coffee",
  "heroku-status.coffee",
  "emoji.coffee",
- "eardropping.coffee"]
+ "eardropping.coffee",
+ "ip.coffee"]
