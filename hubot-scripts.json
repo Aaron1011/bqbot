@@ -8,6 +8,5 @@
  "ackbar.coffee",
  "ascii.coffee",
  "heroku-status.coffee",
- "emoji.coffee",
  "eardropping.coffee",
  "ip.coffee"]
