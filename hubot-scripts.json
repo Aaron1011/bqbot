@@ -6,4 +6,5 @@
  "travis.coffee",
  "google.coffee",
  "ackbar.coffee",
- "ascii.coffee"]
+ "ascii.coffee",
+ "heroku-status.coffee"]
